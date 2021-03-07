@@ -8,5 +8,8 @@ The initial purpose was to make an classifier of type of masks, but because ther
 ### Solution
 Almost all the code belongs to [MaskeTheFace](https://github.com/aqeelanwar/MaskTheFace). I modified some functions in order to be able to run in real-time using the webcam.
 
-<!-- ### Results
-![Alt text](imgs/results.PNG?raw=true "Webcam photo") -->
+### Results
+<h><h/>
+<p align="center">
+  <img width="404" height="330" src="imgs/results.PNG?raw=true">
+</p>
